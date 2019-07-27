@@ -1,0 +1,7 @@
+E:\Project\VisualStudio\DeploymentTool\DeploymentTool\bin\Debug\DeploymentTool.exe.config
+E:\Project\VisualStudio\DeploymentTool\DeploymentTool\bin\Debug\DeploymentTool.exe
+E:\Project\VisualStudio\DeploymentTool\DeploymentTool\bin\Debug\DeploymentTool.pdb
+E:\Project\VisualStudio\DeploymentTool\DeploymentTool\obj\Debug\DeploymentTool.csproj.CoreCompileInputs.cache
+E:\Project\VisualStudio\DeploymentTool\DeploymentTool\obj\Debug\DeploymentTool.exe
+E:\Project\VisualStudio\DeploymentTool\DeploymentTool\obj\Debug\DeploymentTool.pdb
+E:\Project\VisualStudio\DeploymentTool\DeploymentTool\obj\Debug\DeploymentTool.csprojAssemblyReference.cache
